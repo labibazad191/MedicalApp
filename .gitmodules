@@ -1,0 +1,3 @@
+[submodule "preskibo-backend"]
+	path = preskibo-backend
+	url = https://github.com/labibazad191/MedicalApp.git
